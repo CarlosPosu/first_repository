@@ -1,2 +1,2 @@
 # first_repository
-con este repositorio nos inmiscuirnos en github
+con este repositorio nos inmiscuirnos en Github
